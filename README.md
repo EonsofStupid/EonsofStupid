@@ -32,6 +32,7 @@ identity, and the tools that tie them together. I mostly work in Rust, TypeScrip
 | [**RRFlow / Vyrm**](https://github.com/rrflow/rrflow) | Runtime substrate for Connectome: bi-temporal claims, atomic typed commits, and hash-chained replay that make an agent's work auditable. | Rust |
 | [**Connectome**](https://github.com/EonsofStupid/rrflow-connectome) | Native desktop control surface for RRFlow runtimes, with a query studio, graph and JSON lenses, a data-model designer, and run replay. | Tauri · TypeScript |
 | [**Qortek**](https://github.com/EonsofStupid/Qortek) | Public "durable brain" layer: Reason Ready Objects, graph lineage, fork → deliberate → commit → foldback workflows, and vector-recall alignment. | Rust |
+| [**qdrantrs-port**](https://github.com/EonsofStupid/qdrantrs-port) | Embeddable Qdrant library for running vector search in-process. A modernized fork of tyrchen/qdrant-lib, updated to Rust 2024 with multi-tenant support and aligned with Qdrant v1.16. | Rust |
 | [**Tessera**](https://github.com/EonsofStupid/tessera) | Standalone identity and access platform covering users, orgs, OIDC/OAuth, SAML, federation, sessions, and audit. | Go |
 | [**DeepDive**](https://github.com/EonsofStupid/deepdive) | Agent skills that use conversation forking as a design tool, for Claude Code, Codex, and Cursor. Installs with one line. | Shell |
 | [**Clyffy Avatar**](https://github.com/EonsofStupid/Clyffy_Avatar) | Blender-authored character pack exported to VRM, with an offline drive contract for local voice. | Python · Blender |
